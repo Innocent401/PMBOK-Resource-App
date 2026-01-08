@@ -1,0 +1,5 @@
+{
+  "name": "PMBOK 8th Edition Execution Assistant",
+  "description": "A high-performance dashboard for managing PMBOK Process 6.3 (Acquire Resources) and 6.4 (Lead the Team), featuring real-time resource tracking and leadership logging powered by Gemini.",
+  "requestFramePermissions": []
+}
